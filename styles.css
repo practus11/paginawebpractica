@@ -1,0 +1,23 @@
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .section {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  #bienvenida {
+    background: linear-gradient(to right, #FFD700, #FF6347); /* Degradado de oro a rojo */
+    
+  }
+  
+  #formulario {
+    background: linear-gradient(to right, #1E90FF, #32CD32); /* Degradado de azul a verde */
+  }
+  
+  #alumnos {
+    background: linear-gradient(to right, #FFA500, #FF1493); /* Degradado de naranja a rosa */
+  }
+  
